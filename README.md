@@ -180,28 +180,28 @@ set tabstop=2
 
 # Tips
 
-Learn vim (atleast the basic commands). Before you start the exam, add a .vimrc with basic settings like expandtab, shiftwidth and tabstop
+* Learn vim (atleast the basic commands). Before you start the exam, add a .vimrc with basic settings like expandtab, shiftwidth and tabstop
 
-Tmux will be preinstalled. Use it if you know how to. This is not as important as learning vim, but I find it very useful to have a split pane in tmux - one for editing files and other for running kubectl commands
+* Tmux will be preinstalled. Use it if you know how to. This is not as important as learning vim, but I find it very useful to have a split pane in tmux - one for editing files and other for running kubectl commands
 
-check copy-paste works before you start with the questions. I had some trouble to get used to it. (in linux, press left and mouse buttons to copy and it will be pasted to where the cursor is, and won't be copied to clipboard)
+* check copy-paste works before you start with the questions. I had some trouble to get used to it. (in linux, press left and mouse buttons to copy and it will be pasted to where the cursor is, and won't be copied to clipboard)
 
-add alias k=kubectl and export do="--dry-run=client -o yaml" in bashrc. This will save you a ton of time
+* add alias k=kubectl and export do="--dry-run=client -o yaml" in bashrc. This will save you a ton of time
 
-Some of the questions will be very easy. I recommend going through the qustions once while doing all the easy questions (ones which take less than 3 mins) and noting down the skipped ones.
+* Some of the questions will be very easy. I recommend going through the qustions once while doing all the easy questions (ones which take less than 3 mins) and noting down the skipped ones.
 
-keep the most difficult ones to the end
+* keep the most difficult ones to the end
 
-Get comfortable with basic linux utilities like cat, grep, curl etc
+* Get comfortable with basic linux utilities like cat, grep, curl etc
 
-I went through the curriculm, made a learning plan, took notes and made my own study material. It helped a lot
+* I went through the curriculm, made a learning plan, took notes and made my own study material. It helped a lot
 
-The free killer.sh sessions are great. It is harder than the real exam, but the experience helped a lot in cracking the real one
+* The free killer.sh sessions are great. It is harder than the real exam, but the experience helped a lot in cracking the real one
 
-Add bookmarks to pages which you think you may need to refer (for eg, I kept a bookmark for etcd backup and restore doc because the commands are too big and I can't remember them)
+* Add bookmarks to pages which you think you may need to refer (for eg, I kept a bookmark for etcd backup and restore doc because the commands are too big and I can't remember them)
 
-kubectl explain command is often more useful than official doc. Get used to using it during your practice
+* kubectl explain command is often more useful than official doc. Get used to using it during your practice
 
-If you have time remaining, use it to verify all your answers. I found that I missed something in one of my questions, which wouldve cost me 7% score if didn't check it.
+* If you have time remaining, use it to verify all your answers. I found that I missed something in one of my questions, which wouldve cost me 7% score if didn't check it.
 
-For some questions, it will take some time to complete reconciliation (for eg, adding a new node takes time for it to become ready). Mark them as pending in the notepand and move on to other questions. Don't wait!
+* For some questions, it will take some time to complete reconciliation (for eg, adding a new node takes time for it to become ready). Mark them as pending in the notepand and move on to other questions. Don't wait!
