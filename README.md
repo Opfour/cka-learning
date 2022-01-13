@@ -178,7 +178,7 @@ set shiftwidth=2
 set tabstop=2
 ```
 
-#Tips
+# Tips
 
 Learn vim (atleast the basic commands). Before you start the exam, add a .vimrc with basic settings like expandtab, shiftwidth and tabstop
 
