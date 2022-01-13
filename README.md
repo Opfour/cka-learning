@@ -178,7 +178,8 @@ set shiftwidth=2
 set tabstop=2
 ```
 
-Tips
+#Tips
+
 Learn vim (atleast the basic commands). Before you start the exam, add a .vimrc with basic settings like expandtab, shiftwidth and tabstop
 
 Tmux will be preinstalled. Use it if you know how to. This is not as important as learning vim, but I find it very useful to have a split pane in tmux - one for editing files and other for running kubectl commands
